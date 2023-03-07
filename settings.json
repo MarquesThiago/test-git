@@ -1,0 +1,240 @@
+{
+    "[python]": {
+        "editor.formatOnType": false,
+        "editor.tabSize": 4,
+        "editor.insertSpaces": true,
+        "editor.defaultFormatter": "ms-python.python", // ms-python.python
+        "editor.formatOnSave": true,
+        "editor.codeActionsOnSave": {
+          "source.organizeImports": true},
+    },
+    "[javascript]":{
+        "editor.tabSize": 2,
+        "editor.autoIndent": "full",
+    },
+
+    "[json]": {
+      "editor.quickSuggestions": {
+        "strings": true
+      },
+      "editor.insertSpaces": false,
+      "editor.suggest.insertMode": "replace",
+      "editor.wordBreak": "normal"
+    },
+
+    "[html]": {
+        "editor.suggest.insertMode": "replace",
+        "editor.autoIndent": "full",
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "vscode.html-language-features",
+        "editor.quickSuggestions": {
+          "other": true,
+          "comments": true,
+          "strings": true
+        }
+
+    },
+    "[django-html]": {
+      "editor.formatOnSave": false,
+      "editor.defaultFormatter": "vscode.html-language-features",
+      "editor.quickSuggestions": {
+        "other": true,
+        "comments": true,
+        "strings": true
+      }
+    },
+
+    "[css]": {
+      "editor.suggest.insertMode": "replace",
+      "editor.autoIndent": "full",
+      "editor.tabSize": 2
+    },
+
+    "[ruby]": {
+      "editor.tabSize": 4
+    },
+
+    "[markdown]": {
+      "editor.unicodeHighlight.ambiguousCharacters": false,
+      "editor.unicodeHighlight.invisibleCharacters": false,
+      "editor.autoIndent": "full",
+      "editor,defaultFormatter": "",
+      "diffEditor.ignoreTrimWhitespace": false,
+      "editor.wordWrap": "on",
+      "editor.quickSuggestions": {
+        "comments": "off",
+        "strings": "off",
+        "other": "off"
+      },
+      "editor.suggest.showKeywords": true
+      
+    },
+
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "GitHub Dark Colorblind (Beta)",
+
+    // editor
+    "editor.fontLigatures": true,
+    "editor.fontFamily": "JetBrains Mono, Fira Code",
+    "editor.fontSize": 16,
+    "files.autoSave": "afterDelay",
+    "editor.letterSpacing": 1,
+
+    "cSpell.language": "en, pt,pt_BR",
+    "cSpell.enabled": true,
+    
+    //terminal 
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "terminal.integrated.cursorStyle": "block",
+    "terminal.integrated.fontFamily": "monospace",
+    "terminal.integrated.fontSize": 16,
+    
+    // Color brackets
+    "editor.language.brackets": null,
+    "editor.bracketPairColorization.enabled": true,
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": false,
+    "editor.RainbowBrackets.enabled": true,
+    "RainbowBrackets.colorMode": "Independent",
+    "RainbowBrackets.consecutivePairColors": 	[
+      "()",
+      "[]",
+      "{}",
+      [
+        "dodgerblue",
+        "sandybrown",
+        "limegreen",
+        "deeppink",
+        "darkviolet",
+        "gold",
+        "orangered",
+        "orchid",
+        "greenyellow"
+      ],
+      "Revioletd"
+    ],
+    "RainbowBrackets.independentPairColors": [
+      [
+        "()",
+        [
+          "dodgerblue",
+          "cyan",
+          "blueviolet",
+          "deeppink",
+          "mediumpurple",
+          "fuchsia",
+          "lightskyblue",
+          "darkorchid",
+          "cornflowerblue",
+          
+          
+        ],
+        "Revioletd"
+      ],
+      [
+        "[]",
+        [
+          "orange",
+          "yellow",
+          "burlywood",
+          "khaki",
+          "tomato",
+          "chocolate",
+          "gold",
+          "orangered",
+          "red"
+        ],
+        "Revioletd"
+      ],
+      [
+        "{}",
+        [
+          "lawngreen",
+          "lightseagreen",
+          "lime",
+          "mediumspringgreen",
+          "palegreen",
+          "yellowgreen",
+          "chartreuse",
+          "limegreen",
+        ],
+        "Revioletd"
+      ]
+    ],
+    "RainbowBrackets.forceUniqueOpeningColor": false,
+    "RainbowBrackets.forceIterationColorCycle": false,
+    "editor.guides.bracketPairs": "active",
+    "haskell.manageHls": "GHCup",
+    "window.zoomLevel": 0,
+
+    // python
+    "python.languageServer": "Pylance", // ms-python.vscode-pylance
+    "python.testing.unittestEnabled": false, // ms-python.python
+    "python.testing.pytestEnabled": true,
+    "python.testing.pytestArgs": [], // -x to bail
+    "python.linting.flake8Enabled": false,
+    "python.linting.ignorePatterns": [
+      "**/site-packages/**/*.py",
+      ".vscode/*.py"
+    ],
+    "python.linting.flake8Args": [],
+    "python.linting.mypyEnabled": false,
+    "python.linting.pylintArgs": [
+      "--load-plugins=pylint_django",
+      "--errors-only"
+    ],
+    "python.formatting.autopep8Args": ["--indent-size=4"],
+    
+    //python - docstring
+    "autoDocstring.includeName": false,
+    "autoDocstring.docstringFormat": "google",
+  
+    // files
+    "files.associations": {
+      "*.js": "javascript",
+      "*.jsx": "javascriptreact",
+      "*.xml": "html",
+      "*.svg": "html",
+      "*.html": "html",
+      
+      "django-html": "html", // batisteo.vscode-django
+      "**/*.html": "html",
+      "**/templates/**/*.html": "django-html",
+      "**/base_templates/**/*.html": "django-html",
+      "**/requirements{/**,*}.{txt,in}": "pip-requirements"
+    },
+    "emmet.includeLanguages": {
+      "django-html": "html", // batisteo.vscode-django
+      "javascript": "javascriptreact",
+      "typescript": "typescriptreact"
+    },
+    "cSpell.userWords": [
+      "autopep",
+      "batisteo",
+      "dodgerblue",
+      "limegreen",
+      "luhn",
+      "lunh",
+      "mypy",
+      "nltk",
+      "punkt",
+      "Pylance",
+      "pylint",
+      "pytest",
+      "simbol",
+      "spacy"
+    ],
+    "cSpell.ignorePaths": [
+      "package-lock.json",
+      "node_modules",
+      "vscode-extension",
+      ".git/objects",
+      ".vscode",
+      ".vscode-insiders",
+      "**/settings.json",
+    ],
+    "git.autofetch": true,
+    "explorer.compactFolders": false,
+    "RainbowBrackets.depreciation-notice": false
+
+    
+}
