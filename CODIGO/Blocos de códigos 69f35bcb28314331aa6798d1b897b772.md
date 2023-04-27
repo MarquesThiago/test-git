@@ -36,3 +36,5 @@ Resultado:
 ![Untitled](Blocos%20de%20co%CC%81digos%2069f35bcb28314331aa6798d1b897b772/Untitled%201.png)
 
 podemos notar que ele colocar uma coloração respeitando a linguagem
+
+também podemos utilizar o ~ ao invés da ` é o mesmo resultado.
