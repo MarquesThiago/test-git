@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1287.51 744.59">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-2 {
+        letter-spacing: 0em;
+      }
+
+      .cls-3 {
+        letter-spacing: 0em;
+      }
+
+      .cls-4, .cls-5, .cls-6 {
+        fill: #fff;
+      }
+
+      .cls-7 {
+        fill: url(#linear-gradient-6);
+      }
+
+      .cls-8 {
+        letter-spacing: 0em;
+      }
+
+      .cls-9 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-10 {
+        fill: url(#radial-gradient);
+      }
+
+      .cls-11 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5 {
+        font-size: 36px;
+      }
+
+      .cls-5, .cls-6 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+      }
+
+      .cls-12 {
+        letter-spacing: .01em;
+      }
+
+      .cls-13 {
+        fill: url(#linear-gradient-5);
+      }
+
+      .cls-14 {
+        fill: url(#radial-gradient-2);
+      }
+
+      .cls-15 {
+        letter-spacing: 0em;
+      }
+
+      .cls-6 {
+        font-size: 72px;
+      }
+
+      .cls-16 {
+        letter-spacing: .01em;
+      }
+
+      .cls-17 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-18 {
+        fill: url(#linear-gradient);
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-19 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-20 {
+        fill: url(#linear-gradient-4);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="1302.14" y1="1300.19" x2="35.16" y2="-479.35" gradientUnits="userSpaceOnUse">
+      <stop offset=".3" stop-color="#af2b2b"/>
+      <stop offset=".51" stop-color="#ac2a2a"/>
+      <stop offset=".62" stop-color="#a52828"/>
+      <stop offset=".7" stop-color="#972525"/>
+      <stop offset=".77" stop-color="#842020"/>
+      <stop offset=".84" stop-color="#6c1a1a"/>
+      <stop offset=".89" stop-color="#4e1313"/>
+      <stop offset=".95" stop-color="#2b0a0a"/>
+      <stop offset="1" stop-color="#020000"/>
+      <stop offset="1" stop-color="#000"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="270.85" y1="320.55" x2="-37.15" y2="18.55" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1c1b1b"/>
+      <stop offset=".44" stop-color="#111"/>
+      <stop offset="1" stop-color="#231f20"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="213.31" y1="481.63" x2="-94.69" y2="179.63" gradientTransform="translate(1223 903.16) rotate(-180)" xlink:href="#linear-gradient-2"/>
+    <radialGradient id="radial-gradient" cx="822.13" cy="370.05" fx="822.13" fy="370.05" r="715.49" gradientUnits="userSpaceOnUse">
+      <stop offset=".34" stop-color="#171312"/>
+      <stop offset=".5" stop-color="#120f0f"/>
+      <stop offset=".85" stop-color="#0c0c0c"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="985.34" cy="212.11" fx="1350.59" fy="631.53" r="556.17" gradientUnits="userSpaceOnUse">
+      <stop offset=".38" stop-color="#b22929"/>
+      <stop offset=".78" stop-color="#ff2815"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-4" x1="1141.19" y1="185.61" x2="87.26" y2="198.65" gradientUnits="userSpaceOnUse">
+      <stop offset=".41" stop-color="#561515"/>
+      <stop offset=".41" stop-color="#561515" stop-opacity="1"/>
+      <stop offset=".45" stop-color="#651715" stop-opacity=".69"/>
+      <stop offset=".49" stop-color="#711a16" stop-opacity=".43"/>
+      <stop offset=".55" stop-color="#7b1b17" stop-opacity=".24"/>
+      <stop offset=".61" stop-color="#821d17" stop-opacity=".1"/>
+      <stop offset=".71" stop-color="#851d17" stop-opacity=".02"/>
+      <stop offset=".97" stop-color="#871e18" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="1102.51" y1="290.72" x2="805.22" y2="845.04" gradientUnits="userSpaceOnUse">
+      <stop offset=".41" stop-color="#561515"/>
+      <stop offset=".43" stop-color="#5b1615" stop-opacity=".89"/>
+      <stop offset=".51" stop-color="#6b1816" stop-opacity=".57"/>
+      <stop offset=".6" stop-color="#771b17" stop-opacity=".31"/>
+      <stop offset=".69" stop-color="#801c17" stop-opacity=".14"/>
+      <stop offset=".8" stop-color="#851d17" stop-opacity=".03"/>
+      <stop offset=".97" stop-color="#871e18" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" x1="1446.65" y1="-26.65" x2="870.65" y2="440.97" gradientUnits="userSpaceOnUse">
+      <stop offset=".52" stop-color="#2d2d2d" stop-opacity=".5"/>
+      <stop offset=".8" stop-color="#0f0f0f"/>
+    </linearGradient>
+  </defs>
+  <g id="Layer_3" data-name="Layer 3">
+    <polygon class="cls-18" points="1281 733.08 1 733.08 1 10.08 737 10.08 1281 10.08 1281 733.08"/>
+    <rect class="cls-4" x="1" y="214.32" width="1280" height="313.44"/>
+    <polygon class="cls-1" points="1 10.08 1 527.76 435.39 10.08 1 10.08"/>
+    <polygon class="cls-17" points="1279.54 732 1279.54 214.32 845.15 732 1279.54 732"/>
+    <text class="cls-6" transform="translate(258.52 284.91)"><tspan class="cls-19" x="0" y="0">L</tspan><tspan x="32.98" y="0">o</tspan><tspan class="cls-2" x="72.5" y="0">r</tspan><tspan x="95.33" y="0">em ipsum dolor sit ame</tspan><tspan class="cls-11" x="798.76" y="0">t</tspan><tspan x="822.37" y="0">, </tspan><tspan class="cls-8" x="0" y="86.4">c</tspan><tspan x="31.82" y="86.4">onse</tspan><tspan class="cls-12" x="175.89" y="86.4">c</tspan><tspan class="cls-8" x="209.08" y="86.4">t</tspan><tspan x="232.48" y="86.4">etuer adipiscing eli</tspan><tspan class="cls-3" x="799.91" y="86.4">t</tspan><tspan x="823.52" y="86.4">, </tspan></text>
+    <text class="cls-5" transform="translate(184.84 465.43)"><tspan class="cls-9" x="0" y="0">L</tspan><tspan x="16.49" y="0">o</tspan><tspan class="cls-2" x="36.25" y="0">r</tspan><tspan class="cls-15" x="47.66" y="0">em ipsum dolor sit ame</tspan><tspan class="cls-3" x="399.38" y="0">t</tspan><tspan x="411.19" y="0">, </tspan><tspan class="cls-8" x="426.27" y="0">c</tspan><tspan x="442.18" y="0">onse</tspan><tspan class="cls-16" x="514.22" y="0">c</tspan><tspan class="cls-8" x="530.81" y="0">t</tspan><tspan x="542.51" y="0">etuer adipisc</tspan><tspan x="735.11" y="0">-</tspan></text>
+  </g>
+  <g id="Layer_5" data-name="Layer 5">
+    <g>
+      <rect class="cls-10" x="1" y="10.08" width="1280" height="725.39"/>
+      <polygon class="cls-14" points="639 10.08 639 372.77 1281 735.47 1281 673.53 703.85 372.77 697.12 10.08 639 10.08"/>
+      <polygon class="cls-20" points="638.4 10.08 641.5 372.77 703.85 372.77 693.86 10.08 638.4 10.08"/>
+      <polygon class="cls-13" points="1281 735.47 641.5 372.77 703.85 372.77 1281 671.98 1281 735.47"/>
+      <polygon class="cls-7" points="696.96 10.08 703.85 372.77 1281 679.72 1281 0 696.96 10.08"/>
+    </g>
+  </g>
+</svg>

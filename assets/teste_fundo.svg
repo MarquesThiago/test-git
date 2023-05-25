@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1287.51 744.59">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: .8;
+      }
+
+      .cls-2 {
+        fill: none;
+        opacity: .78;
+        stroke: #fff;
+        stroke-width: 2px;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient);
+        stroke: #231f20;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="1302.14" y1="1300.19" x2="35.16" y2="-479.35" gradientUnits="userSpaceOnUse">
+      <stop offset=".3" stop-color="#af2b2b"/>
+      <stop offset=".51" stop-color="#ac2a2a"/>
+      <stop offset=".62" stop-color="#a52828"/>
+      <stop offset=".7" stop-color="#972525"/>
+      <stop offset=".77" stop-color="#842020"/>
+      <stop offset=".84" stop-color="#6c1a1a"/>
+      <stop offset=".89" stop-color="#4e1313"/>
+      <stop offset=".95" stop-color="#2b0a0a"/>
+      <stop offset="1" stop-color="#020000"/>
+      <stop offset="1" stop-color="#000"/>
+    </linearGradient>
+  </defs>
+  <rect class="cls-3" x="1" y="10.08" width="1280" height="723"/>
+  <g class="cls-1">
+    <polygon class="cls-2" points="1171.9 595.63 1083.75 544.73 1083.75 733.08 1281 733.08 1107.42 632.86 1171.9 595.63"/>
+    <path class="cls-2" d="m1083.75,471.36v4.8l30.44-17.58-143.77-83.01,1.07-.62-41.21-23.79,115.72-66.81v47.58l98-56.58v5.13l136.6-78.87-109.3-63.1v119.43l-166.88-88.79,166.88-88.79v1.71l109.7-63.34v-8.66H1v723h849.7v-116.29s173.58,100.22,173.58,100.22l-27.84,16.08h87.31l-226.65-130.86,226.65-130.86Zm-243.91,245.64l-115.72-66.81,115.72-66.81v133.62Z"/>
+    <polygon class="cls-2" points="1144 441.37 1208.68 404.03 1144 366.69 1144 441.37"/>
+    <polygon class="cls-2" points="1171.3 138.52 1280.6 201.62 1281 201.39 1281 18.74 1171.3 82.07 1171.3 138.52"/>
+    <polygon class="cls-2" points="1171.3 82.07 1171.3 80.36 1004.42 169.15 1171.3 257.95 1171.3 138.52 1122.42 110.3 1171.3 82.07"/>
+    <polygon class="cls-2" points="1122.42 110.3 1171.3 138.52 1171.3 82.07 1122.42 110.3"/>
+    <polygon class="cls-2" points="1208.68 404.03 1281 362.28 1281 201.85 1280.6 201.62 1144 280.49 1144 366.69 1208.68 404.03"/>
+    <polygon class="cls-2" points="1281 201.39 1280.6 201.62 1281 201.85 1281 201.39"/>
+    <polygon class="cls-2" points="1144 366.69 1069.35 323.59 1144 280.49 1144 275.36 1046 331.94 1046 417.98 971.48 374.96 970.42 375.58 1114.19 458.58 1144 441.37 1144 366.69"/>
+    <polygon class="cls-2" points="1144 366.69 1144 280.49 1069.35 323.59 1144 366.69"/>
+    <polygon class="cls-2" points="1144 441.37 1144 475.8 1114.19 458.58 1083.75 476.16 1083.75 544.73 1171.9 595.63 1281 532.64 1281 445.79 1208.68 404.03 1144 441.37"/>
+    <polygon class="cls-2" points="1208.68 404.03 1281 445.79 1281 362.28 1208.68 404.03"/>
+    <polygon class="cls-2" points="1144 441.37 1114.19 458.58 1144 475.8 1144 441.37"/>
+    <polygon class="cls-2" points="1107.42 632.86 1281 733.08 1281 658.62 1171.9 595.63 1107.42 632.86"/>
+    <polygon class="cls-2" points="1171.9 595.63 1281 658.62 1281 532.64 1171.9 595.63"/>
+    <polygon class="cls-2" points="1046 284.36 930.28 351.17 971.48 374.96 1046 331.94 1046 284.36"/>
+    <polygon class="cls-2" points="1046 331.94 971.48 374.96 1046 417.98 1046 331.94"/>
+    <polygon class="cls-2" points="1024.36 510.45 1083.75 476.16 1083.75 471.36 857.09 602.22 1083.75 733.08 1083.75 544.73 1024.36 510.45"/>
+    <polygon class="cls-2" points="1024.36 510.45 1083.75 544.73 1083.75 476.16 1024.36 510.45"/>
+    <polygon class="cls-2" points="850.7 616.79 850.7 733.08 996.44 733.08 1024.28 717 850.7 616.79"/>
+    <polygon class="cls-2" points="839.83 717 839.83 583.38 724.11 650.19 839.83 717"/>
+  </g>
+</svg>

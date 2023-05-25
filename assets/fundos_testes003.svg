@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1280 726.54">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: url(#radial-gradient);
+      }
+
+      .cls-3 {
+        stroke: url(#linear-gradient-2);
+        stroke-width: 6px;
+      }
+
+      .cls-3, .cls-4 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4 {
+        stroke: url(#linear-gradient-4);
+        stroke-width: 8px;
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <radialGradient id="radial-gradient" cx="821.13" cy="361.12" fx="821.13" fy="361.12" r="715.49" gradientUnits="userSpaceOnUse">
+      <stop offset=".34" stop-color="#171312"/>
+      <stop offset=".5" stop-color="#120f0f"/>
+      <stop offset=".85" stop-color="#0c0c0c"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient" x1="0" y1="666.65" x2="1280" y2="666.65" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#aa4027"/>
+      <stop offset=".05" stop-color="#b13a47"/>
+      <stop offset=".15" stop-color="#c52c9a"/>
+      <stop offset=".21" stop-color="#d124cd"/>
+      <stop offset=".55" stop-color="#7834c7"/>
+      <stop offset=".86" stop-color="#2e42c2"/>
+      <stop offset="1" stop-color="#1148c1"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="686.5" y1="307.15" x2="1179.5" y2="307.15" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="0" y1="666.65" x2="1280" y2="666.65" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8c3030"/>
+      <stop offset=".14" stop-color="#9f3b3a"/>
+      <stop offset=".42" stop-color="#d35954"/>
+      <stop offset=".61" stop-color="#f97068"/>
+      <stop offset=".62" stop-color="#f0716a"/>
+      <stop offset=".66" stop-color="#bf7a78"/>
+      <stop offset=".7" stop-color="#948284"/>
+      <stop offset=".74" stop-color="#6f898f"/>
+      <stop offset=".78" stop-color="#528e98"/>
+      <stop offset=".83" stop-color="#3b929e"/>
+      <stop offset=".87" stop-color="#2a95a3"/>
+      <stop offset=".93" stop-color="#2197a6"/>
+      <stop offset="1" stop-color="#1e98a7"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="685.5" y1="307.15" x2="1180.5" y2="307.15" xlink:href="#linear-gradient-3"/>
+  </defs>
+  <g>
+    <rect class="cls-2" y="1.15" width="1280" height="725.39"/>
+    <rect class="cls-6" y="612.15" width="1280" height="109"/>
+    <circle class="cls-3" cx="933" cy="307.15" r="243.5"/>
+    <circle class="cls-1" cx="933" cy="307.15" r="226.5"/>
+  </g>
+  <g>
+    <rect class="cls-2" y="1.15" width="1280" height="725.39"/>
+    <rect class="cls-5" y="612.15" width="1280" height="109"/>
+    <circle class="cls-4" cx="933" cy="307.15" r="243.5"/>
+    <circle class="cls-1" cx="933" cy="307.15" r="226.5"/>
+  </g>
+  <g>
+    <rect class="cls-2" y="1.15" width="1280" height="725.39"/>
+    <rect class="cls-5" y="612.15" width="1280" height="109"/>
+  </g>
+</svg>
