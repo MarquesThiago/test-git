@@ -6,11 +6,11 @@
         "editor.defaultFormatter": "ms-python.python", // ms-python.python
         "editor.formatOnSave": true,
         "editor.codeActionsOnSave": {
-          "source.organizeImports": true},
+          "source.organizeImports": true}
     },
     "[javascript]":{
         "editor.tabSize": 2,
-        "editor.autoIndent": "full",
+        "editor.autoIndent": "full"
     },
 
     "[json]": {
@@ -127,9 +127,7 @@
           "fuchsia",
           "lightskyblue",
           "darkorchid",
-          "cornflowerblue",
-          
-          
+          "cornflowerblue"
         ],
         "Revioletd"
       ],
@@ -158,7 +156,7 @@
           "palegreen",
           "yellowgreen",
           "chartreuse",
-          "limegreen",
+          "limegreen"
         ],
         "Revioletd"
       ]
@@ -233,7 +231,7 @@
       ".git/objects",
       ".vscode",
       ".vscode-insiders",
-      "**/settings.json",
+      "**/settings.json"
     ],
     "git.autofetch": true,
     "explorer.compactFolders": false,
